@@ -24,7 +24,7 @@ Board Rev. 1
 Bench Testing YouTube Video
 ============
 
-[![Watch the video](https://img.youtube.com/vi/-4yf4lCva_A/maxresdefault.jpg)](https://youtu.be/-4yf4lCva_A)
+{% include youtube.html id="-4yf4lCva_A" %}
 
 Contribute 
 ===========
