@@ -1,30 +1,26 @@
 DSS-SSR4E
 ============
 
-The "DSS-SSR4E" is an open source OSHWA Certified hardware design(pending), providing four isolated SSR outputs and a single isolated
-ABZ encoder input. Compatible with Mesa Ethernet Anything I/O Cards and Mesa Electronics HostMot2.
+The "DSS-SSR4E" is a OSHWA Certified hardware design (pending cert.), providing four isolated SSR outputs and a single isolated
+ABZ encoder input. Compatible with Mesa Ethernet Anything I/O Cards and Mesa Electronics HostMot2 configurations.
 
 DSS-SSR4E <br>
 "Desert Shed Stuido SSR x4 + Encoder"
 
-<img src="Images/certification-mark-US002600-stacked.svg" width=30% height=30%>
+<img src="Images/certification-mark-????????-stacked.svg" width=300>
 
 This repository is aimed towards those who wish to manufacture their own boards. 
 
-Board Render
-============
+Media
+=======
 
-![DSS-SSR4E](Images/00.jpg)
+| KICAD RENDER           | HAND SOLDERED PROTOTYPE  |
+| ---------------------- | ------------------------ |
+|<img src="Images/00.jpg" height="300"> | <img src="Images/01.JPG" height="300"> |
 
-Board Rev. 1
-============
-
-![DSS-SSR4E](Images/01.JPG)
-
-Bench Testing YouTube Video
-============
-
-{% include youtube.html id="-4yf4lCva_A" %}
+| BENCHTEST VIDEO |
+| --------------- |
+| [![DSS-SSR4E Bench Test](https://github.com/DesertShedStudio/DSS-SSR4E/blob/main/Images/YT_Thumbnail.jpg)](https://www.youtube.com/watch?v=-4yf4lCva_A "DSS-SSR4E Bench Test") |
 
 Contribute 
 ===========
