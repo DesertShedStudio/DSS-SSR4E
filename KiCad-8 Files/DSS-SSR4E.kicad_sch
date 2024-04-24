@@ -6,6 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "DSS-SSR4E")
+		(date "2024-04-09")
 		(rev "1")
 		(company "Desert Shed Studio")
 	)

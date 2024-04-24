@@ -115,8 +115,8 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.15239999999999998,
-        "min_connection": 0.15239999999999998,
+        "min_clearance": 0.1524,
+        "min_connection": 0.1524,
         "min_copper_edge_clearance": 0.508,
         "min_hole_clearance": 0.2286,
         "min_hole_to_hole": 0.2286,
@@ -127,7 +127,7 @@
         "min_text_height": 0.127,
         "min_text_thickness": 0.127,
         "min_through_hole_diameter": 0.254,
-        "min_track_width": 0.15239999999999998,
+        "min_track_width": 0.1524,
         "min_via_annular_width": 0.127,
         "min_via_diameter": 0.635,
         "solder_mask_clearance": 0.0,
@@ -573,6 +573,72 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -610,7 +676,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/Basic-US-Letter.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/Kyo/Desktop/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

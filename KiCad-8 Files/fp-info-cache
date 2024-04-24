@@ -1,4 +1,4 @@
-23108457136443001
+23110171068698552
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53747,6 +53747,13 @@ NVE_IL613E
 16
 Custom_Footprints
 OSHWA_US002600
+
+
+0
+0
+0
+Custom_Footprints
+OSHWA_US002623
 
 
 0
