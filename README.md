@@ -1,13 +1,13 @@
 DSS-SSR4E
 ============
 
-The "DSS-SSR4E" is a OSHWA Certified hardware design (pending cert.), providing four isolated SSR outputs and a single isolated
+The "DSS-SSR4E" is a OSHWA Certified hardware design, providing four isolated SSR outputs and a single isolated
 ABZ encoder input. Compatible with Mesa Ethernet Anything I/O Cards and Mesa Electronics HostMot2 configurations.
 
 DSS-SSR4E <br>
 "Desert Shed Stuido SSR x4 + Encoder"
 
-<img src="Images/certification-mark-????????-stacked.svg" width=300>
+<img src="Images/certification-mark-US002623-stacked.svg" width=300>
 
 This repository is aimed towards those who wish to manufacture their own boards. 
 
